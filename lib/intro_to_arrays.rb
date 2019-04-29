@@ -28,3 +28,4 @@ def first_element_with_array_methods(first_country)
 first_country = @south_east_asia.first
 end
 
+def last_element_with_array_methods(last_country)
